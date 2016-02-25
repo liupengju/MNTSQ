@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/connect.ico</file>
+        <file>icon/open.ico</file>
+        <file>icon/open3.ico</file>
+    </qresource>
+    <qresource prefix="/cfg">
+        <file>cfg/db_config.cfg</file>
+        <file>cfg/功能说明.txt</file>
+    </qresource>
+</RCC>
